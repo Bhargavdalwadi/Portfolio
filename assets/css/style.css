@@ -474,11 +474,14 @@ section {
   font-weight: 700;
   margin-top: 20px;
   margin-bottom: 20px;
-  color: #050d18;
+  color: #0063ee;
+  padding: 0 0 10px 10px;
+  margin-top: -1px;
+  border-left: 2px solid #1f5297;
 }
 
 .resume .resume-item {
-  padding: 0 0 20px 20px;
+  padding: 0 0 10px 20px;
   margin-top: -2px;
   border-left: 2px solid #1f5297;
   position: relative;
