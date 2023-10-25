@@ -1144,17 +1144,29 @@ section {
 }
 
 .bar.learning::before {
-  width: calc(20% - 10px);
-}
-.bar.basic::before {
-  width: calc(40% - 10px);
-}
-.bar.intermediate::before {
-  width: calc(60% - 10px);
-}
-.bar.advanced::before {
   width: calc(80% - 10px);
 }
+.bar.basic::before {
+  width: calc(70% - 10px);
+}
+.bar.intermediate::before {
+  width: calc(82% - 10px);
+}
+.bar.advanced::before {
+  width: calc(85% - 10px);
+}
 .bar.expert::before {
-  width: calc(100% - 10px);
+  width: calc(75% - 10px);
+}
+.bar.terra::before {
+  width: calc(85% - 10px);
+}
+.bar.jen::before {
+  width: calc(73% - 10px);
+}
+.bar.kub::before {
+  width: calc(83% - 10px);
+}
+.bar.poro::before {
+  width: calc(68% - 10px);
 }
